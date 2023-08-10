@@ -1,9 +1,9 @@
 ### IntelliJ IDEA ###
+.idea
+Simple Chatty Bot.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.iml
-.idea
 
 ### Eclipse ###
 .apt_generated
